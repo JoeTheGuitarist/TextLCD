@@ -25,7 +25,7 @@
 
 #include "mbed.h"
 
-/** A TextLCD interface for driving 4-bit HD44780-based LCDs
+/**  A TextLCD interface for driving 4-bit HD44780-based LCDs
  *
  * Currently supports 16x2, 20x2 and 20x4 panels
  *
